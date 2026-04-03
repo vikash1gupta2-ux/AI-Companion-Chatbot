@@ -1,8 +1,8 @@
-# 🤖 AI Companion Chatbot
+# Your AI Companion Chatbot
 
 A personal AI chatbot that runs in your terminal
 
-> Features
+>> Features
 
 - Talks like a real friend
 - Detects your mood from your messages
@@ -10,7 +10,7 @@ A personal AI chatbot that runs in your terminal
 - Save your chats and continue later
 - lean and beautiful interface
 
-> How to Run
+>> How to Run
 
 # Step 1 : Install dependencies
 ```bash
@@ -27,14 +27,14 @@ python chatbot.py
 
 Enter your API key when asked, and start chatting!
 
-> Commands
+>> Commands
 
  Command : What it does 
  `quit`  : Exit the chatbot 
  `save`  : Save chat history to file 
  `clear` : Clear conversation memory 
 
-> Structure
+>> Structure
 
 ```
 AI-Companion-Chatbot/
@@ -45,12 +45,12 @@ AI-Companion-Chatbot/
 └── README.md           # This file
 ```
 
-> 🛠️ Built With
+>> Built With
 
 - Python 3.x
 - A.I. API
 
-> 📸 Preview
+>> Preview
 
 ```
 ╔══════════════════════════════════════════╗
