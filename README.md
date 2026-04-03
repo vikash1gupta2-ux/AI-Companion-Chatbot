@@ -1,41 +1,40 @@
 # 🤖 AI Companion Chatbot
 
-A personal AI chatbot that runs in your terminal — powered by Claude AI!
+A personal AI chatbot that runs in your terminal
 
-## ✨ Features
+> Features
 
-- 💬 **Natural Conversations** — Talks like a real friend
-- 😄 **Mood Detection** — Detects your mood from your messages
-- 🧠 **Memory** — Remembers the full conversation context
-- 💾 **Save & Load** — Save your chats and continue later
-- 🎨 **Colorful Terminal UI** — Clean and beautiful interface
+- Talks like a real friend
+- Detects your mood from your messages
+- Remembers the full conversation context
+- Save your chats and continue later
+- lean and beautiful interface
 
-## 🚀 How to Run
+> How to Run
 
-### Step 1 — Install dependencies
+# Step 1 : Install dependencies
 ```bash
 pip install -r requirements.txt
 ```
 
-### Step 2 — Get your API Key
+# Step 2 : Get your API Key
 Get a free API key from: https://console.anthropic.com/
 
-### Step 3 — Run the chatbot
+# Step 3 : Run the chatbot
 ```bash
 python chatbot.py
 ```
 
 Enter your API key when asked, and start chatting!
 
-## 💡 Commands
+> Commands
 
-| Command | What it does |
-|---------|-------------|
-| `quit`  | Exit the chatbot |
-| `save`  | Save chat history to file |
-| `clear` | Clear conversation memory |
+ Command : What it does 
+ `quit`  : Exit the chatbot 
+ `save`  : Save chat history to file 
+ `clear` : Clear conversation memory 
 
-## 📁 Project Structure
+> Structure
 
 ```
 AI-Companion-Chatbot/
@@ -46,18 +45,17 @@ AI-Companion-Chatbot/
 └── README.md           # This file
 ```
 
-## 🛠️ Built With
+> 🛠️ Built With
 
 - Python 3.x
-- Anthropic Claude API
-- No extra libraries needed (uses built-in `urllib`)
+- A.I. API
 
-## 📸 Preview
+> 📸 Preview
 
 ```
 ╔══════════════════════════════════════════╗
-║        🤖  AI COMPANION CHATBOT  🤖      ║
-║     Your personal AI friend — always     ║
+║        🤖  AI COMPANION CHATBOT  🤖     ║
+║     Your personal AI friend : always     ║
 ║         here to chat with you!           ║
 ╚══════════════════════════════════════════╝
 
