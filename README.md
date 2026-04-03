@@ -59,12 +59,14 @@ AI-Companion-Chatbot/
 ║         here to chat with you!           ║
 ╚══════════════════════════════════════════╝
 
-  👤 What should I call you? Vikash
+  Nova: What should I call you?
+  🙍: Vikash
 
   Hey Vikash! I'm Nova, your AI companion. 😊
 
   Vikash: I'm feeling bored today
   [14:32] Mood detected: 😑 bored
+
   Nova is thinking...
 
   Nova: Aw, bored days are the worst! Want me to
