@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Chat history (personal data)
+chat_history.json
+
+# OS files
+.DS_Store
+Thumbs.db

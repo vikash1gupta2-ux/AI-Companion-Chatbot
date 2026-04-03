@@ -1,0 +1,9 @@
+# AI Companion Chatbot - Dependencies
+# No external libraries needed!
+# Uses only Python built-in modules:
+# - urllib (API calls)
+# - json   (data handling)
+# - os     (environment variables)
+# - datetime (timestamps)
+
+# Python 3.7+ required
